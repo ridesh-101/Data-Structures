@@ -5,7 +5,6 @@ import java.util.NoSuchElementException;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
         CustomQueue queue = new CustomQueue(5);
         queue.add("Lord Voldemort");
         queue.add("Albus Dumbledore");
