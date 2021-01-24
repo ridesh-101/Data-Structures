@@ -3,7 +3,7 @@ package com.company.linkedlist;
 public class Main {
 
     public static void main(String[] args) {
-	    CustomDoublyLinkedList list = new CustomDoublyLinkedList();
+	CustomDoublyLinkedList list = new CustomDoublyLinkedList();
         list.addToFront("Ridesh Raj");
         list.addToFront("Tony Stark");
         list.addToFront("Clark Kent");
