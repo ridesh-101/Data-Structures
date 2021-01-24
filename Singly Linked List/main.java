@@ -3,7 +3,6 @@ package com.company.linkedlist;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
         CustomSinglyLinkedList ll = new CustomSinglyLinkedList();
 //        ll.addToFront(1999909);
 //        ll.addToFront(616);
