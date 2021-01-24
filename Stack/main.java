@@ -5,7 +5,6 @@ import java.util.EmptyStackException;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
         ArrayStack stack = new ArrayStack(5);
         stack.push(10);
         stack.push(20);
